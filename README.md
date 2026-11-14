@@ -4,7 +4,7 @@
 *Computer Networks • Information Security • Cloud & Applied AI*
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--6056--9338-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6056-9338)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/bb9e30cd-528b-4e0d-943c-8c088b92c067)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Võ_Hữu_Tuấn_(Rinz)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rin232/)
 [![Facebook](https://img.shields.io/badge/Facebook-Rinz_HCMUS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tuan.vohuu.232)
