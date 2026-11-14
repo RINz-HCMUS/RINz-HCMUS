@@ -1,0 +1,33 @@
+# Võ Hữu Tuấn (Rinz)
+
+> Final-year Information Technology student (High-Quality Program - K22) at the University of Science, VNU-HCM (FIT@HCMUS), majoring in Computer Networks with a specialization in Information Security. Currently serving as Google Student Ambassador (Season 2) at HCMUS.
+
+## Canonical Identity & Profiles
+- Full Name: Võ Hữu Tuấn
+- Alias / Handle: Rinz, RINz-HCMUS
+- ORCID: https://orcid.org/0009-0003-6056-9338
+- GitHub: https://github.com/RINz-HCMUS
+- LinkedIn: https://www.linkedin.com/in/rin232/
+- Google Cloud Skills Boost: https://www.cloudskillsboost.google/public_profiles/bb9e30cd-528b-4e0d-943c-8c088b92c067
+- Facebook: https://www.facebook.com/tuan.vohuu.232
+
+## Education
+- University of Science, Vietnam National University Ho Chi Minh City (FIT@HCMUS) — B.Sc. in Information Technology (High-Quality Program, K22), Major in Computer Networks & Information Security (2022–2026). GPA: 9.4/10 (Excellent).
+- Lê Quý Đôn High School for the Gifted (Ninh Thuận) — Specialized in Informatics.
+
+## Roles & Leadership
+- Google Student Ambassador (Season 2) at HCMUS: Empowering students to integrate Gemini and Google AI tools into learning, creativity, and daily campus life.
+- Former Vice Head of Professional Affairs at USCC (HCMUS Chess Club).
+
+## Key Technical Projects
+- ConnectDeskZ (https://github.com/RINz-HCMUS/ConnectDeskZ): Web-based remote desktop platform built with React 19, TypeScript 5.8, Tailwind CSS v4, WebRTC P2P Data Channels, and AES-256 End-to-End Encryption (E2EE).
+- NetSpeedZ (https://github.com/RINz-HCMUS/NetSpeedZ): Zero-backend Internet speed and bandwidth diagnostic tool connecting client-side directly to Anycast Edge PoPs with multi-stream TCP/HTTPS, Dual-Stack IPv4/IPv6 (ASN) detection, and Bufferbloat analysis.
+- WebBased-Remote-Control (https://github.com/RINz-HCMUS/WebBased-Remote-Control): Cross-platform web-based remote computer administration system built with .NET 8, C#, ASP.NET Core, and SignalR.
+- NutriScan (MVP): AI-driven food barcode scanning and chemical preservative analysis web app developed with Google AI Studio, Gemini API, and Cloud Run.
+
+## Honors & Awards
+- VNU-HCM Academic Encouragement Scholarship (Semester 2, 2025–2026, GPA 9.4/10).
+- Top 500 — Google AI Riser Vietnam 2026 (#BuildwithGoogleAI).
+- Tier 2 Achiever (2 consecutive seasons) — Cloud AI Study Jam Vietnam (QuanQuanGCP).
+- National Olympiad in Informatics Team Member & First Prize (Provincial Level, Ninh Thuận).
+- Silver Medal — Traditional April 30th Olympiad in Informatics (Lê Hồng Phong High School for the Gifted).
